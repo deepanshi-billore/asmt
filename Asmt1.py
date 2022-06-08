@@ -97,7 +97,7 @@
 
 bacon=22
 bacon+1
-
+bacon = 23
 
 # In[ ]:
 
@@ -112,12 +112,14 @@ bacon+1
 
 "spam"+"spamspam"
 
+spamspamspam
+
 
 # In[4]:
 
 
 "spam"*3
-
+spamspamspam
 
 # In[ ]:
 
