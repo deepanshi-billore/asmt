@@ -1,0 +1,29 @@
+1.	Why are functions advantageous to have in your programs?
+Because we can use the same function for any number of times to perform the same task.
+2.	When does the code in a function run: when it’s specified or when it’s called?
+When it is called.
+3.	What statement creates a function?
+def function_name:
+4.	What is the difference between a function and a function call?
+Function contains the command that need to be performed whereas function call is used when we want to use the function in your program.
+5.	How many global scopes are there in a Python program? How many local scopes?
+
+6.	What happens to variables in a local scope when the function call returns?
+
+A local variable becomes undefined after function call completes.
+7.	What is the concept of a return value? Is it possible to have a return value in an expression?
+Return is used to return a value that a function return after it’s call.
+8.	If a function does not have a return statement, what is the return value of a call to that function?
+None
+9.	How do you make a function variable refer to the global variable?
+By writing global in front of the variable
+10.	What is the data type of None?
+NoneType
+11.	What does the sentence import areallyourpetsnamederic do?
+Import the module with name areallyourpetsnamederic
+12.	If you had a bacon() feature in a spam module, what would you call it after importing spam?
+spam.bacon()
+13.	What can you do to save a programme from crashing if it encounters an error?
+By using exception handling
+14.	What is the purpose of the try clause? What is the purpose of the except clause?
+Try block is used to check if the block of code has any compile time error and except block is used to handle the error.
